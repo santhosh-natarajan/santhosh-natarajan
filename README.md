@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning front end technologies
 - 💞️ I’m looking to collaborate on fornt end projects
 - 📫 How to reach me at santhosh.swengineer@gmail.com
+- 💼 You can look into my work in https://santhosh-natarajan.github.io/bio/
 
 <!---
 santhosh-natarajan/santhosh-natarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
